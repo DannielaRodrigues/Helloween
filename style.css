@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+}
+
+header {
+background-color: black;
+height: 95px;
+}
+
+h1 {
+color: red;
+}
+
+a {
+color: red;   
+text-decoration: none;
+}
+
+div {
+border: solid 2px red;
+width: 500px;
+border-radius: 12px;
+}
+
+img {
+width: 500px;
+border-radius: 12px;
+}
+
+figcaption {
+color:  red;
+font-size: 32px;
+}
+
+footer{
+background-color: black;    
+}
+
+li {
+color: red;
+list-style: none;
+}
